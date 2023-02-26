@@ -1,6 +1,6 @@
 #!/bin/bash
 
-KLIPPERSCREEN_USER=${USER}
+KLIPPERSCREEN_USER=klipper
 KLIPPERSCREEN_CONFIG=/home/$KLIPPERSCREEN_USER/printer_data/config/KlipperScreen.conf
 KLIPPERSCREEN_LOG=/home/$KLIPPERSCREEN_USER/printer_data/logs/KlipperScreen.log
 
